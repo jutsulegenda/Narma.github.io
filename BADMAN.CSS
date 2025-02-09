@@ -1,0 +1,39 @@
+.mp3 {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	background-color: rgba(0, 0, 0, 0);
+	padding: 10px;
+	border-radius: 10px;
+	z-index: 9999;
+}
+.video {
+	margin-right: 20px;
+	position: absolute;
+	top: 0;
+	right: 0;
+
+}
+.* {
+	margin: 0;
+}
+html,body {
+	height: 10000vh;
+}
+.container {
+	display: flex;
+	align-items: center;
+}
+.text {
+	padding: 20px;
+}
+.img {
+	position: relative;
+	bottom: 0;
+	right: 0;
+	margin-left: 20px;
+}
+.koi {
+	text-decoration: none;
+	color: red;
+}

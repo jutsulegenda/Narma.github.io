@@ -1,0 +1,19 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.invisible-link {
+	text-decoration: none;
+	color: green;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+.da {
+	font-size: 24px;
+	text-align: center;
+}
